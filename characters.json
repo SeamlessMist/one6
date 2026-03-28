@@ -1,0 +1,5884 @@
+[
+  {
+    "name": "Roronoa Zoro",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/188?cb=20241029161719",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Straw Hat Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "Conquerors",
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "5'11\"",
+    "heightCm": 181,
+    "bounty": "1,111,000,000",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Romance Dawn"
+  },
+  {
+    "name": "Sanji",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Sanji_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/167?cb=20240122012744",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Straw Hat Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "5'11\"",
+    "heightCm": 180,
+    "bounty": "1,032,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Baratie"
+  },
+  {
+    "name": "Usopp",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/3/35/Usopp_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/269?cb=20221127233827",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Straw Hat Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "Observation"
+    ],
+    "heightFt": "5'9\"",
+    "heightCm": 176,
+    "bounty": "500,000,000",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Syrup Village"
+  },
+  {
+    "name": "Brook",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/41/Brook_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/214?cb=20161016160925",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Straw Hat Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "9'1\"",
+    "heightCm": 277,
+    "bounty": "383,000,000",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Thriller Bark"
+  },
+  {
+    "name": "Tony Tony Chopper",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/af/Tony_Tony_Chopper_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/390?cb=20240720150824",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Straw Hat Pirates",
+    "devilFruitType": "Zoan",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "2'11\"",
+    "heightCm": 90,
+    "bounty": "1,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Drum Island"
+  },
+  {
+    "name": "Nami",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/68/Nami_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/298?cb=20260315214841",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Straw Hat Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'7\"",
+    "heightCm": 170,
+    "bounty": "366,000,000",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Orange Town"
+  },
+  {
+    "name": "Jinbe",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/8/81/Jinbe_Anime_Infobox.png/revision/latest/scale-to-width-down/392?cb=20170521201349",
+    "gender": "Male",
+    "species": "Fish-Man",
+    "calling": "Pirate",
+    "affiliation": "Straw Hat Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "9'11\"",
+    "heightCm": 301,
+    "bounty": "1,100,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Impel Down"
+  },
+  {
+    "name": "Nico Robin",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Nico_Robin_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/257?cb=20190202051257",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Straw Hat Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'2\"",
+    "heightCm": 188,
+    "bounty": "930,000,000",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Whisky Peak"
+  },
+  {
+    "name": "Monkey D. Luffy",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/239?cb=20240306200817",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Straw Hat Pirates",
+    "devilFruitType": "Mythical Zoan",
+    "haki": [
+      "Conquerors",
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "5'9\"",
+    "heightCm": 174,
+    "bounty": "3,000,000,000",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Romance Dawn"
+  },
+  {
+    "name": "Franky",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Franky_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/500?cb=20241110020715",
+    "gender": "Male",
+    "species": "Cyborg",
+    "calling": "Pirate",
+    "affiliation": "Straw Hat Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'10\"",
+    "heightCm": 240,
+    "bounty": "394,000,000",
+    "seaOfBirth": "South Blue",
+    "firstArc": "Water 7"
+  },
+  {
+    "name": "Yamato",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/bd/Yamato_Anime_Infobox.png/revision/latest/scale-to-width-down/336?cb=20260126165014",
+    "gender": "Male",
+    "species": "Oni",
+    "calling": "Pirate",
+    "affiliation": "Beasts Pirates",
+    "devilFruitType": "Mythical Zoan",
+    "haki": [
+      "Conquerors",
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "8'8\"",
+    "heightCm": 263,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Wano Country"
+  },
+  {
+    "name": "Karoo",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/fc/Karoo_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/368?cb=20240629192134",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Straw Hat Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "4'11\"",
+    "heightCm": 150,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Whisky Peak"
+  },
+  {
+    "name": "Killer",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/70/Killer_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/473?cb=20210815025653",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Kid Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "6'5\"",
+    "heightCm": 195,
+    "bounty": "200,000,000",
+    "seaOfBirth": "South Blue",
+    "firstArc": "Sabaody Archipelago"
+  },
+  {
+    "name": "Jewelry Bonney",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/62/Jewelry_Bonney_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/333?cb=20230123001318",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Bonney Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament"
+    ],
+    "heightFt": "5'9\"",
+    "heightCm": 174,
+    "bounty": "320,000,000",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Sabaody Archipelago"
+  },
+  {
+    "name": "Capone Bege",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/9/99/Capone_Bege_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/306?cb=20160911163015",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Fire Tank Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'5\"",
+    "heightCm": 166,
+    "bounty": "350,000,000",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Sabaody Archipelago"
+  },
+  {
+    "name": "Eustass Kid",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/47/Eustass_Kid_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/420?cb=20240505021859",
+    "gender": "Male",
+    "species": "Cyborg",
+    "calling": "Pirate",
+    "affiliation": "Beasts Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Conquerors",
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "6'9\"",
+    "heightCm": 205,
+    "bounty": "3,000,000,000",
+    "seaOfBirth": "South Blue",
+    "firstArc": "Sabaody Archipelago"
+  },
+  {
+    "name": "Kouzuki Momonosuke",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/8/8b/Kouzuki_Momonosuke_Anime_Infobox.png/revision/latest/scale-to-width-down/383?cb=20240904123638",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Kouzuki Family; Ninja-Pirate-Mink-Samurai Alliance",
+    "devilFruitType": "Mythical Zoan",
+    "haki": [
+      "Observation"
+    ],
+    "heightFt": "10'7\"",
+    "heightCm": 322,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Punk Hazard"
+  },
+  {
+    "name": "Trafalgar D. Water Law",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Trafalgar_D._Water_Law_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/222?cb=20230124163510",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "6'3\"",
+    "heightCm": 191,
+    "bounty": "3,000,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Sabaody Archipelago"
+  },
+  {
+    "name": "Kin'emon",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/ec/Kin%27emon_Anime_Infobox.png/revision/latest/scale-to-width-down/270?cb=20191124100115",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Kouzuki Family; Ninja-Pirate-Mink-Samurai Alliance ; Nine Red Scabbards",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "9'8\"",
+    "heightCm": 295,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Punk Hazard"
+  },
+  {
+    "name": "Nefertari Vivi",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/0/09/Nefertari_Vivi_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/182?cb=20190505023647",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Straw Hat Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'7\"",
+    "heightCm": 169,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Reverse Mountain"
+  },
+  {
+    "name": "Basil Hawkins",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/f8/Basil_Hawkins_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230906163534",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Hawkins Pirates; Beasts Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "6'10\"",
+    "heightCm": 210,
+    "bounty": "320,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Sabaody Archipelago"
+  },
+  {
+    "name": "X Drake",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/0/04/X_Drake_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/296?cb=20200209080003",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Marines;",
+    "devilFruitType": "Ancient Zoan",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "7'8\"",
+    "heightCm": 233,
+    "bounty": "222,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Sabaody Archipelago"
+  },
+  {
+    "name": "Lucky Roux",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/5/59/Lucky_Roux_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/439?cb=20220613165554",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Red Hair Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament"
+    ],
+    "heightFt": "7'11\"",
+    "heightCm": 241,
+    "bounty": "None",
+    "seaOfBirth": "South Blue",
+    "firstArc": "Romance Dawn"
+  },
+  {
+    "name": "Urouge",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/fb/Urouge_Anime_Infobox.png/revision/latest/scale-to-width-down/365?cb=20230126223235",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Fallen Monk Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "12'9\"",
+    "heightCm": 388,
+    "bounty": "108,000,000",
+    "seaOfBirth": "Sky Island",
+    "firstArc": "Sabaody Archipelago"
+  },
+  {
+    "name": "Gol D. Roger",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/24/Gol_D._Roger_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230612100153",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Roger Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "Conquerors",
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "9'0\"",
+    "heightCm": 274,
+    "bounty": "5,564,800,000",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Romance Dawn"
+  },
+  {
+    "name": "Benn Beckman",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/1/12/Benn_Beckman_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20240623091906",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Red Hair Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament"
+    ],
+    "heightFt": "6'9\"",
+    "heightCm": 206,
+    "bounty": "None",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Romance Dawn"
+  },
+  {
+    "name": "Shanks",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/66/Shanks_Anime_Infobox.png/revision/latest/scale-to-width-down/348?cb=20240829145447",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Red Hair Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "Conquerors",
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "4'4\"",
+    "heightCm": 132,
+    "bounty": "4,048,900,000",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Romance Dawn"
+  },
+  {
+    "name": "Silvers Rayleigh",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/b1/Silvers_Rayleigh_Anime_Infobox.png/revision/latest/scale-to-width-down/262?cb=20230601221758",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Roger Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "Conquerors",
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "6'2\"",
+    "heightCm": 188,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Orange Town"
+  },
+  {
+    "name": "Crocus",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/3/34/Crocus_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230403010215",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Roger Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "Observation"
+    ],
+    "heightFt": "6'8\"",
+    "heightCm": 203,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Reverse Mountain"
+  },
+  {
+    "name": "Scratchmen Apoo",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/d0/Scratchmen_Apoo_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/459?cb=20210426143015",
+    "gender": "Male",
+    "species": "Longarm",
+    "calling": "Pirate",
+    "affiliation": "Beasts Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "8'5\"",
+    "heightCm": 256,
+    "bounty": "350,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Sabaody Archipelago"
+  },
+  {
+    "name": "Marshall D. Teach",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/ff/Marshall_D._Teach_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/439?cb=20240128044952",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Whitebeard Pirates",
+    "devilFruitType": "Logia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "11'3\"",
+    "heightCm": 344,
+    "bounty": "3,996,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Jaya"
+  },
+  {
+    "name": "Shiryu",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Shiryu_Anime_Infobox.png/revision/latest/scale-to-width-down/468?cb=20240728020909",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "World Government",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament"
+    ],
+    "heightFt": "11'2\"",
+    "heightCm": 340,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Impel Down"
+  },
+  {
+    "name": "Yasopp",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/1/15/Yasopp_Anime_Infobox.png/revision/latest/scale-to-width-down/359?cb=20240623091749",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Red Hair Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "Observation"
+    ],
+    "heightFt": "6'0\"",
+    "heightCm": 183,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Romance Dawn"
+  },
+  {
+    "name": "Edward Newgate",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Edward_Newgate_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20220926165737",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Whitebeard Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Conquerors",
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "21'10\"",
+    "heightCm": 666,
+    "bounty": "5,046,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Alabasta"
+  },
+  {
+    "name": "Marco",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Marco_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/179?cb=20221010015200",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Whitebeard Pirates",
+    "devilFruitType": "Mythical Zoan",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "6'8\"",
+    "heightCm": 203,
+    "bounty": "1,374,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Jaya"
+  },
+  {
+    "name": "Jozu",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/61/Jozu_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20220702104233",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Whitebeard Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "16'6\"",
+    "heightCm": 503,
+    "bounty": "None",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Jaya"
+  },
+  {
+    "name": "Jesus Burgess",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/43/Jesus_Burgess_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/485?cb=20240128022349",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Helmsman",
+    "affiliation": "Blackbeard Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "11'8\"",
+    "heightCm": 355,
+    "bounty": "20,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Jaya"
+  },
+  {
+    "name": "Portgas D. Ace",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Portgas_D._Ace_Anime_Infobox.png/revision/latest/scale-to-width-down/299?cb=20240629132600",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Whitebeard Pirates",
+    "devilFruitType": "Logia",
+    "haki": [
+      "Conquerors",
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "3'5\"",
+    "heightCm": 103,
+    "bounty": "550,000,000",
+    "seaOfBirth": "South Blue",
+    "firstArc": "Drum Island"
+  },
+  {
+    "name": "Izou",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/8/81/Izou_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/318?cb=20210919035558",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Whitebeard Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "6'3\"",
+    "heightCm": 192,
+    "bounty": "510,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Marineford"
+  },
+  {
+    "name": "Vista",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/78/Vista_Anime_Infobox.png/revision/latest/scale-to-width-down/339?cb=20180131180522",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Whitebeard Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "10'9\"",
+    "heightCm": 328,
+    "bounty": "None",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Marineford"
+  },
+  {
+    "name": "Charlotte Linlin",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Charlotte_Linlin_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20180423150804",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Big Mom Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Conquerors",
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "28'10\"",
+    "heightCm": 880,
+    "bounty": "4,388,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Fish-Man Island"
+  },
+  {
+    "name": "Catarina Devon",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Catarina_Devon_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/448?cb=20200112041332",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Titanic Captain",
+    "affiliation": "Blackbeard Pirates; Impel Down",
+    "devilFruitType": "Mythical Zoan",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "11'10\"",
+    "heightCm": 361,
+    "bounty": "None",
+    "seaOfBirth": "South Blue",
+    "firstArc": "Marineford"
+  },
+  {
+    "name": "Stronger",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/d3/Stronger_Anime_Infobox.png/revision/latest/scale-to-width-down/320?cb=20231222225633",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Blackbeard Pirates",
+    "devilFruitType": "Mythical Zoan",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Jaya"
+  },
+  {
+    "name": "Van Augur",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/9/95/Van_Augur_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/495?cb=20240211025011",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Sniper",
+    "affiliation": "Blackbeard Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "11'2\"",
+    "heightCm": 340,
+    "bounty": "64,000,000",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Jaya"
+  },
+  {
+    "name": "Laffitte",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/0/00/Laffitte_Anime_Infobox.png/revision/latest/scale-to-width-down/225?cb=20161029211833",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Navigator",
+    "affiliation": "Blackbeard Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "11'2\"",
+    "heightCm": 340,
+    "bounty": "42,200,000",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Jaya"
+  },
+  {
+    "name": "Avalo Pizarro",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/ef/Avalo_Pizarro_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/461?cb=20200112042123",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Royalty",
+    "affiliation": "Blackbeard Pirates; Impel Down",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "16'6\"",
+    "heightCm": 505,
+    "bounty": "None",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Marineford"
+  },
+  {
+    "name": "Sanjuan Wolf",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/62/Sanjuan_Wolf_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/500?cb=20241006021549",
+    "gender": "Male",
+    "species": "Giant",
+    "calling": "Titanic Captain",
+    "affiliation": "Blackbeard Pirates; Impel Down",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "590'6\"",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Marineford"
+  },
+  {
+    "name": "Doc Q",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Doc_Q_Anime_Infobox.png/revision/latest?cb=20240211200456",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Doctor",
+    "affiliation": "Blackbeard Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 342,
+    "bounty": "72,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Jaya"
+  },
+  {
+    "name": "Vasco Shot",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/66/Vasco_Shot_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/500?cb=20240728020838",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Titanic Captain",
+    "affiliation": "Blackbeard Pirates; Impel Down",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "18'10\"",
+    "heightCm": 573,
+    "bounty": "None",
+    "seaOfBirth": "South Blue",
+    "firstArc": "Marineford"
+  },
+  {
+    "name": "Kuzan",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Kuzan_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/407?cb=20240811021341",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Marine",
+    "affiliation": "Marines",
+    "devilFruitType": "Logia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "9'9\"",
+    "heightCm": 298,
+    "bounty": "None",
+    "seaOfBirth": "South Blue",
+    "firstArc": "Long Ring Long Land"
+  },
+  {
+    "name": "Charlotte Cracker",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/64/Charlotte_Cracker_Anime_Infobox.png/revision/latest/scale-to-width-down/298?cb=20170730021804",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Big Mom Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "10'1\"",
+    "heightCm": 307,
+    "bounty": "860,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Charlotte Brûlée",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/d9/Charlotte_Br%C3%BBl%C3%A9e_Anime_Infobox.png/revision/latest/scale-to-width-down/261?cb=20170611174235",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Big Mom Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "11'6\"",
+    "heightCm": 350,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Charlotte Oven",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Charlotte_Oven_Anime_Infobox.png/revision/latest/scale-to-width-down/261?cb=20181028111159",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Big Mom Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "16'2\"",
+    "heightCm": 492,
+    "bounty": "300,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Charlotte Smoothie",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Charlotte_Smoothie_Anime_Infobox.png/revision/latest/scale-to-width-down/214?cb=20180423150946",
+    "gender": "Female",
+    "species": "Longleg",
+    "calling": "Pirate",
+    "affiliation": "Big Mom Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "15'3\"",
+    "heightCm": 464,
+    "bounty": "932,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Charlotte Katakuri",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/2e/Charlotte_Katakuri_Anime_Infobox.png/revision/latest/scale-to-width-down/333?cb=20230204155539",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Big Mom Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Conquerors",
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "16'8\"",
+    "heightCm": 509,
+    "bounty": "1,057,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Charlotte Perospero",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Charlotte_Perospero_Anime_Infobox.png/revision/latest/scale-to-width-down/386?cb=20211101122146",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Big Mom Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "10'11\"",
+    "heightCm": 333,
+    "bounty": "700,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Charlotte Daifuku",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Charlotte_Daifuku_Anime_Infobox.png/revision/latest/scale-to-width-down/398?cb=20230215154338",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Big Mom Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "16'0\"",
+    "heightCm": 489,
+    "bounty": "300,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Charlotte Pudding",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/60/Charlotte_Pudding_Anime_Infobox.png/revision/latest/scale-to-width-down/260?cb=20250106015531",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Big Mom Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'5\"",
+    "heightCm": 166,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Fish-Man Island"
+  },
+  {
+    "name": "Charlotte Flampe",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/9/91/Charlotte_Flampe_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20190203105539",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Big Mom Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'7\"",
+    "heightCm": 170,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Kaidou",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Kaidou_Anime_Infobox.png/revision/latest/scale-to-width-down/483?cb=20231102015517",
+    "gender": "Male",
+    "species": "Oni",
+    "calling": "Pirate",
+    "affiliation": "Beasts Pirates",
+    "devilFruitType": "Mythical Zoan",
+    "haki": [
+      "Conquerors",
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "23'4\"",
+    "heightCm": 710,
+    "bounty": "4,611,100,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Sasaki",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Sasaki_Anime_Infobox.png/revision/latest/scale-to-width-down/382?cb=20211205140441",
+    "gender": "Male",
+    "species": "Fish-Man",
+    "calling": "Swordsman",
+    "affiliation": "Beasts Pirates",
+    "devilFruitType": "Ancient Zoan",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "10'5\"",
+    "heightCm": 318,
+    "bounty": "472,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Wano Country"
+  },
+  {
+    "name": "Page One",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/46/Page_One_Anime_Infobox.png/revision/latest/scale-to-width-down/380?cb=20211128115519",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Shinuchi",
+    "affiliation": "Yamato; Beasts Pirates",
+    "devilFruitType": "Ancient Zoan",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "5'7\"",
+    "heightCm": 171,
+    "bounty": "290,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Wano Country"
+  },
+  {
+    "name": "Jack",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Jack_Anime_Infobox.png/revision/latest/scale-to-width-down/394?cb=20161009223938",
+    "gender": "Male",
+    "species": "Fish-Man",
+    "calling": "Pirate",
+    "affiliation": "Beasts Pirates",
+    "devilFruitType": "Ancient Zoan",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "27'3\"",
+    "heightCm": 830,
+    "bounty": "1,000,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Bepo",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Bepo_Anime_Infobox.png/revision/latest/scale-to-width-down/327?cb=20231210123641",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Heart Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'10\"",
+    "heightCm": 240,
+    "bounty": "1,500",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Sabaody Archipelago"
+  },
+  {
+    "name": "King",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/8/8f/King_Anime_Infobox.png/revision/latest/scale-to-width-down/300?cb=20230423142631",
+    "gender": "Male",
+    "species": "Lunarian",
+    "calling": "Pirate",
+    "affiliation": "Beasts Pirates",
+    "devilFruitType": "Ancient Zoan",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "20'1\"",
+    "heightCm": 613,
+    "bounty": "1,390,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Wano Country"
+  },
+  {
+    "name": "Ulti",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Ulti_Anime_Infobox.png/revision/latest/scale-to-width-down/241?cb=20240831170217",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Shinuchi",
+    "affiliation": "Yamato; Beasts Pirates",
+    "devilFruitType": "Ancient Zoan",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "5'8\"",
+    "heightCm": 173,
+    "bounty": "400,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Wano Country"
+  },
+  {
+    "name": "Who's-Who",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/9/94/Who%27s-Who_Anime_Infobox.png/revision/latest/scale-to-width-down/337?cb=20211201215156",
+    "gender": "Male",
+    "species": "Oni",
+    "calling": "Agent",
+    "affiliation": "CP9",
+    "devilFruitType": "Ancient Zoan",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "11'0\"",
+    "heightCm": 336,
+    "bounty": "546,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Wano Country"
+  },
+  {
+    "name": "Penguin",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Penguin_Anime_Infobox.png/revision/latest/scale-to-width-down/285?cb=20240128193140",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Heart Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Sabaody Archipelago"
+  },
+  {
+    "name": "Black Maria",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Black_Maria_Anime_Infobox.png/revision/latest/scale-to-width-down/446?cb=20210808144206",
+    "gender": "Female",
+    "species": "Oni",
+    "calling": "Musician",
+    "affiliation": "Beasts Pirates",
+    "devilFruitType": "Ancient Zoan",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "26'11\"",
+    "heightCm": 820,
+    "bounty": "480,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Wano Country"
+  },
+  {
+    "name": "Queen",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/5/52/Queen_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20200920174728",
+    "gender": "Male",
+    "species": "Cyborg",
+    "calling": "Pirate",
+    "affiliation": "Beasts Pirates",
+    "devilFruitType": "Ancient Zoan",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "20'1\"",
+    "heightCm": 612,
+    "bounty": "1,320,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Wano Country"
+  },
+  {
+    "name": "Dracule Mihawk",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Dracule_Mihawk_Anime_Infobox.png/revision/latest/scale-to-width-down/322?cb=20151222105910",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Seven Warlords of the Sea",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "6'6\"",
+    "heightCm": 198,
+    "bounty": "3,590,000,000",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Baratie"
+  },
+  {
+    "name": "Shachi",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Shachi_Anime_Infobox.png/revision/latest/scale-to-width-down/171?cb=20130425024908",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Heart Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Sabaody Archipelago"
+  },
+  {
+    "name": "Buggy",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/f7/Buggy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/500?cb=20240813025900",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Buggy Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "4'3\"",
+    "heightCm": 130,
+    "bounty": "3,189,000,00015,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Orange Town"
+  },
+  {
+    "name": "Mohji",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/0/09/Mohji_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200821151313",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Buggy Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'6\"",
+    "heightCm": 197,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Orange Town"
+  },
+  {
+    "name": "Jean Bart",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/af/Jean_Bart_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/500?cb=20240726161233",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Heart Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Sabaody Archipelago"
+  },
+  {
+    "name": "Boa Hancock",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Boa_Hancock_Anime_Infobox.png/revision/latest/scale-to-width-down/242?cb=20230126022456",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Seven Warlords of the Sea",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Conquerors",
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "6'3\"",
+    "heightCm": 191,
+    "bounty": "1,659,000,000",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Amazon Lily"
+  },
+  {
+    "name": "Galdino",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/1/13/Galdino_Anime_Infobox.png/revision/latest?cb=20221003165116",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Buggy Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'10\"",
+    "heightCm": 179,
+    "bounty": "24,000,000",
+    "seaOfBirth": "South Blue",
+    "firstArc": "Little Garden"
+  },
+  {
+    "name": "Cabaji",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/6c/Cabaji_Anime_Infobox.png/revision/latest/scale-to-width-down/246?cb=20220921023133",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Buggy Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'10\"",
+    "heightCm": 208,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Orange Town"
+  },
+  {
+    "name": "Alvida",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/cd/Alvida_Anime_Infobox.png/revision/latest/scale-to-width-down/288?cb=20221116234952",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Cross Guild; Buggy's Delivery, Buggy and Alvida Alliance; Buggy Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'6\"",
+    "heightCm": 198,
+    "bounty": "5,000,000",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Romance Dawn"
+  },
+  {
+    "name": "Bartholomew Kuma",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Bartholomew_Kuma_Anime_Infobox.png/revision/latest/scale-to-width-down/297?cb=20221012030835",
+    "gender": "Male",
+    "species": "Buccaneer",
+    "calling": "Royalty",
+    "affiliation": "Revolutionary Army",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "22'7\"",
+    "heightCm": 689,
+    "bounty": "296,000,000",
+    "seaOfBirth": "South Blue",
+    "firstArc": "Jaya"
+  },
+  {
+    "name": "Absalom",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/5/56/Absalom_Anime_Infobox.png/revision/latest/scale-to-width-down/426?cb=20230101154942",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Thriller Bark Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'5\"",
+    "heightCm": 195,
+    "bounty": "None",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Thriller Bark"
+  },
+  {
+    "name": "Vergo",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/cf/Vergo_Anime_Infobox.png/revision/latest/scale-to-width-down/220?cb=20230101232239",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Marine",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "8'1\"",
+    "heightCm": 247,
+    "bounty": "None",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Punk Hazard"
+  },
+  {
+    "name": "Donquixote Doflamingo",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Donquixote_Doflamingo_Anime_Infobox.png/revision/latest/scale-to-width-down/430?cb=20231017082245",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Conquerors",
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 305,
+    "bounty": "340,000,000",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Jaya"
+  },
+  {
+    "name": "Richie",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/ca/Richie_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/361?cb=20200111094000",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Buggy Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Orange Town"
+  },
+  {
+    "name": "Gecko Moria",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/be/Gecko_Moria_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20181127062446",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Thriller Bark Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "22'8\"",
+    "heightCm": 692,
+    "bounty": "320,000,000",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Thriller Bark"
+  },
+  {
+    "name": "Hogback",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Hogback_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20240720150902",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Thriller Bark Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'4\"",
+    "heightCm": 223,
+    "bounty": "None",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Thriller Bark"
+  },
+  {
+    "name": "Crocodile",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Crocodile_Anime_Infobox.png/revision/latest/scale-to-width-down/398?cb=20230125235528",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Seven Warlords of the Sea",
+    "devilFruitType": "Logia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "8'4\"",
+    "heightCm": 253,
+    "bounty": "1,965,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Little Garden"
+  },
+  {
+    "name": "Bentham",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/0/0e/Bentham_Anime_Infobox.png/revision/latest/scale-to-width-down/281?cb=20160929070742",
+    "gender": "Other",
+    "species": "Human",
+    "calling": "Agent",
+    "affiliation": "Newkama Land; Baroque Works",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'10\"",
+    "heightCm": 238,
+    "bounty": "32,000,000",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Little Garden"
+  },
+  {
+    "name": "Daz Bonez",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/e9/Daz_Bonez_Anime_Infobox.png/revision/latest/scale-to-width-down/233?cb=20221102004113",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Bounty Hunter",
+    "affiliation": "Cross Guild",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'11\"",
+    "heightCm": 212,
+    "bounty": "75,000,000",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Alabasta"
+  },
+  {
+    "name": "Perona",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Perona_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/291?cb=20221124200121",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Thriller Bark Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'3\"",
+    "heightCm": 160,
+    "bounty": "None",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Thriller Bark"
+  },
+  {
+    "name": "Trebol",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Trebol_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20221117040446",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "11'5\"",
+    "heightCm": 349,
+    "bounty": "99,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Senor Pink",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/48/Senor_Pink_Anime_Infobox.png/revision/latest/scale-to-width-down/430?cb=20241014120619",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "8'0\"",
+    "heightCm": 244,
+    "bounty": "58,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Sugar",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/e9/Sugar_Anime_Infobox.png/revision/latest/scale-to-width-down/300?cb=20141005232110",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "3'7\"",
+    "heightCm": 110,
+    "bounty": "None",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Punk Hazard"
+  },
+  {
+    "name": "Caesar Clown",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/a6/Caesar_Clown_Anime_Infobox.png/revision/latest/scale-to-width-down/408?cb=20221101011307",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "Logia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "10'1\"",
+    "heightCm": 309,
+    "bounty": "300,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Punk Hazard"
+  },
+  {
+    "name": "Diamante",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/72/Diamante_Anime_Infobox.png/revision/latest/scale-to-width-down/385?cb=20151011043134",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "17'3\"",
+    "heightCm": 525,
+    "bounty": "99,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Edward Weevil",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/be/Edward_Weevil_Anime_Infobox.png/revision/latest/scale-to-width-down/484?cb=20160807113654",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Seven Warlords of the Sea",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "22'4\"",
+    "heightCm": 680,
+    "bounty": "480,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Zou"
+  },
+  {
+    "name": "Monkey D. Garp",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Monkey_D._Garp_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230207160645",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Vice Admiral; Instructor",
+    "affiliation": "Marines ; Clan of D.",
+    "devilFruitType": "None",
+    "haki": [
+      "Conquerors",
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "9'5\"",
+    "heightCm": 287,
+    "bounty": "3,000,000,000",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Arlong Park"
+  },
+  {
+    "name": "Sengoku",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/24/Sengoku_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/362?cb=20210208064630",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Inspector General; Fleet Admiral",
+    "affiliation": "Marines",
+    "devilFruitType": "Mythical Zoan",
+    "haki": [
+      "Conquerors",
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "9'1\"",
+    "heightCm": 278,
+    "bounty": "None",
+    "seaOfBirth": "South Blue",
+    "firstArc": "Jaya"
+  },
+  {
+    "name": "Pica",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Pica_Anime_Infobox.png/revision/latest/scale-to-width-down/464?cb=20221117040111",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "15'5\"",
+    "heightCm": 470,
+    "bounty": "99,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Monet",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/9/98/Monet_Anime_Infobox.png/revision/latest/scale-to-width-down/321?cb=20140616000310",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "Logia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'5\"",
+    "heightCm": 227,
+    "bounty": "None",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Punk Hazard"
+  },
+  {
+    "name": "Smoker",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Smoker_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/382?cb=20221101011905",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Marine",
+    "affiliation": "Marines",
+    "devilFruitType": "Logia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "6'10\"",
+    "heightCm": 209,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Loguetown"
+  },
+  {
+    "name": "Hina",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/0/0d/Hina_Anime_Infobox.png/revision/latest/scale-to-width-down/417?cb=20231125233601",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Rear Admiral; Captain",
+    "affiliation": "Marines",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'11\"",
+    "heightCm": 181,
+    "bounty": "None",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Alabasta"
+  },
+  {
+    "name": "Tashigi",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Tashigi_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/327?cb=20251127120726",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Marine",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "5'7\"",
+    "heightCm": 170,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Loguetown"
+  },
+  {
+    "name": "Aramaki",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/0/05/Aramaki_Anime_Infobox.png/revision/latest/scale-to-width-down/291?cb=20240930142146",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Admiral; Police Officer",
+    "affiliation": "Marines",
+    "devilFruitType": "Logia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "10'1\"",
+    "heightCm": 308,
+    "bounty": "3,000,000,000",
+    "seaOfBirth": "South Blue",
+    "firstArc": "Levely"
+  },
+  {
+    "name": "Koby",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Koby_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/375?cb=20241114130518",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "5'6\"",
+    "heightCm": 167,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Romance Dawn"
+  },
+  {
+    "name": "Issho",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Issho_Anime_Infobox.png/revision/latest/scale-to-width-down/308?cb=20220718140829",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Marines",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "8'10\"",
+    "heightCm": 270,
+    "bounty": "3,000,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Tsuru",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/9/91/Tsuru_Anime_Infobox.png/revision/latest/scale-to-width-down/348?cb=20240730231455",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Vice Admiral",
+    "affiliation": "Marines",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 204,
+    "bounty": "None",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Jaya"
+  },
+  {
+    "name": "Helmeppo",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/a3/Helmeppo_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/265?cb=20230723204723",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Marine",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament"
+    ],
+    "heightFt": "5'10\"",
+    "heightCm": 179,
+    "bounty": "100,000,000",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Romance Dawn"
+  },
+  {
+    "name": "Sakazuki",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Sakazuki_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/299?cb=20220829052511",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Fleet Admiral; Admiral",
+    "affiliation": "Marines",
+    "devilFruitType": "Logia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 306,
+    "bounty": "5,000,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Enies Lobby"
+  },
+  {
+    "name": "Borsalino",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/1/14/Borsalino_Anime_Infobox.png/revision/latest/scale-to-width-down/248?cb=20190603023753",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Marines",
+    "devilFruitType": "Logia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "9'11\"",
+    "heightCm": 302,
+    "bounty": "3,000,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Sabaody Archipelago"
+  },
+  {
+    "name": "Onigumo",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Onigumo_Anime_Infobox.png/revision/latest/scale-to-width-down/207?cb=20221123171305",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Marines",
+    "devilFruitType": "Zoan",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Enies Lobby"
+  },
+  {
+    "name": "Doberman",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Doberman_Anime_Infobox.png/revision/latest/scale-to-width-down/385?cb=20221101021412",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Enies Lobby"
+  },
+  {
+    "name": "Bastille",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Bastille_Anime_Infobox.png/revision/latest/scale-to-width-down/305?cb=20200507114049",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "9'7\"",
+    "heightCm": 291,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Marineford"
+  },
+  {
+    "name": "Momonga",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Momonga_Anime_Infobox.png/revision/latest/scale-to-width-down/425?cb=20221101021448",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Marines G-1 Branch",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "8'3\"",
+    "heightCm": 251,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Enies Lobby"
+  },
+  {
+    "name": "Maynard",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/c8/Maynard_Anime_Infobox.png/revision/latest/scale-to-width-down/437?cb=20150301154312",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Vice Admiral",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Jango",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/de/Jango_Anime_Infobox.png/revision/latest/scale-to-width-down/317?cb=20241006021207",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Black Cat Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 207,
+    "bounty": "1,000,000",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Syrup Village"
+  },
+  {
+    "name": "Fullbody",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/9/96/Fullbody_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230527233610",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Marine",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'0\"",
+    "heightCm": 184,
+    "bounty": "1,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Baratie"
+  },
+  {
+    "name": "Sentomaru",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/9/97/Sentomaru_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/500?cb=20241117020846",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Marine",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "9'1\"",
+    "heightCm": 279,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Sabaody Archipelago"
+  },
+  {
+    "name": "Yamakaji",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/62/Yamakaji_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230827195105",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Enies Lobby"
+  },
+  {
+    "name": "Strawberry",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/f2/Strawberry_Anime_Infobox.png/revision/latest/scale-to-width-down/482?cb=20221101021505",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Enies Lobby"
+  },
+  {
+    "name": "Fukurou",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/e0/Fukurou_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/333?cb=20240901020742",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Assassin",
+    "affiliation": "CP9",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "10'10\"",
+    "heightCm": 331,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Enies Lobby"
+  },
+  {
+    "name": "Spandam",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/e7/Spandam_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/403?cb=20230913231907",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "CP9",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'3\"",
+    "heightCm": 192,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Water 7"
+  },
+  {
+    "name": "Kumadori",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/8/86/Kumadori_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/426?cb=20240915021726",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Assassin",
+    "affiliation": "CP9",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "11'1\"",
+    "heightCm": 338,
+    "bounty": "None",
+    "seaOfBirth": "South Blue",
+    "firstArc": "Enies Lobby"
+  },
+  {
+    "name": "Stussy",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/ee/Stussy_Anime_Infobox.png/revision/latest/scale-to-width-down/420?cb=20240512081047",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Assassin",
+    "affiliation": "CP0",
+    "devilFruitType": "Zoan",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "5'10\"",
+    "heightCm": 179,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Monkey D. Dragon",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Monkey_D._Dragon_Anime_Infobox.png/revision/latest/scale-to-width-down/343?cb=20250621010227",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Marine",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "8'5\"",
+    "heightCm": 256,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Loguetown"
+  },
+  {
+    "name": "Kaku",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/0/09/Kaku_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/334?cb=20221127204534",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Assassin",
+    "affiliation": "CP9",
+    "devilFruitType": "Zoan",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "6'4\"",
+    "heightCm": 193,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Water 7"
+  },
+  {
+    "name": "Kalifa",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Kalifa_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/228?cb=20240915021516",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Assassin",
+    "affiliation": "CP9",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "6'1\"",
+    "heightCm": 185,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Water 7"
+  },
+  {
+    "name": "Jabra",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/1/12/Jabra_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/393?cb=20240915021445",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Assassin",
+    "affiliation": "CP9",
+    "devilFruitType": "Zoan",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "6'11\"",
+    "heightCm": 212,
+    "bounty": "None",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Enies Lobby"
+  },
+  {
+    "name": "Blueno",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/2b/Blueno_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/500?cb=20240915021752",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Assassin",
+    "affiliation": "CP9",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "8'5\"",
+    "heightCm": 258,
+    "bounty": "None",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Water 7"
+  },
+  {
+    "name": "Rob Lucci",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Rob_Lucci_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/268?cb=20230102052113",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Assassin",
+    "affiliation": "CP9",
+    "devilFruitType": "Zoan",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "6'11\"",
+    "heightCm": 212,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Water 7"
+  },
+  {
+    "name": "Koala",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Koala_Anime_Infobox.png/revision/latest/scale-to-width-down/308?cb=20140928211728",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Revolutionary",
+    "affiliation": "Revolutionary Army",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'3\"",
+    "heightCm": 160,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Fish-Man Island"
+  },
+  {
+    "name": "Morley",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/48/Morley_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230517025343",
+    "gender": "Female",
+    "species": "Giant",
+    "calling": "Pirate",
+    "affiliation": "Revolutionary Army",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "41'1\"",
+    "heightCm": 1253,
+    "bounty": "293,000,000",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Levely"
+  },
+  {
+    "name": "Belo Betty",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Belo_Betty_Anime_Infobox.png/revision/latest/scale-to-width-down/250?cb=20240903112156",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Revolutionary",
+    "affiliation": "Revolutionary Army",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "6'5\"",
+    "heightCm": 196,
+    "bounty": "457,000,000",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Levely"
+  },
+  {
+    "name": "Hack",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/43/Hack_Anime_Infobox.png/revision/latest/scale-to-width-down/414?cb=20230214000914",
+    "gender": "Male",
+    "species": "Fish-Man",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "9'2\"",
+    "heightCm": 280,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Lindbergh",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Lindbergh_Anime_Infobox.png/revision/latest/scale-to-width-down/493?cb=20190414113604",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Scientist",
+    "affiliation": "Revolutionary Army",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "4'11\"",
+    "heightCm": 149,
+    "bounty": "316,000,000",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Levely"
+  },
+  {
+    "name": "Sabo",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/c2/Sabo_Anime_Infobox.png/revision/latest/scale-to-width-down/330?cb=20230804035141",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Revolutionary Army;",
+    "devilFruitType": "Logia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "6'2\"",
+    "heightCm": 187,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Post-War"
+  },
+  {
+    "name": "Nefertari Cobra",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/7f/Nefertari_Cobra_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/425?cb=20170219154108",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Royalty",
+    "affiliation": "Arabasta Kingdom; Clan of D.",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'0\"",
+    "heightCm": 182,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Drum Island"
+  },
+  {
+    "name": "Karasu",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Karasu_Anime_Infobox.png/revision/latest/scale-to-width-down/441?cb=20190414113619",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Revolutionary",
+    "affiliation": "Revolutionary Army",
+    "devilFruitType": "Logia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "8'8\"",
+    "heightCm": 265,
+    "bounty": "400,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Post-War"
+  },
+  {
+    "name": "Emporio Ivankov",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/de/Emporio_Ivankov_Anime_Infobox.png/revision/latest/scale-to-width-down/327?cb=20180624120810",
+    "gender": "Other",
+    "species": "Human",
+    "calling": "Revolutionary",
+    "affiliation": "Revolutionary Army",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "14'8\"",
+    "heightCm": 449,
+    "bounty": "100,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Impel Down"
+  },
+  {
+    "name": "Inazuma",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Inazuma_Anime_Infobox.png/revision/latest/scale-to-width-down/212?cb=20221031183404",
+    "gender": "Other",
+    "species": "Human",
+    "calling": "Revolutionary",
+    "affiliation": "Revolutionary Army",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'5\"",
+    "heightCm": 228,
+    "bounty": "100,000,000",
+    "seaOfBirth": "South Blue",
+    "firstArc": "Impel Down"
+  },
+  {
+    "name": "Koza",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Koza_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/388?cb=20171228110510",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Environmental Minister;",
+    "affiliation": "Arabasta Kingdom;",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'10\"",
+    "heightCm": 177,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Alabasta"
+  },
+  {
+    "name": "Igaram",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Igaram_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/478?cb=20190625115148",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Agent",
+    "affiliation": "Arabasta; Baroque Works",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'1\"",
+    "heightCm": 218,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Whisky Peak"
+  },
+  {
+    "name": "Dalton",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/0/07/Dalton_Anime_Infobox.png/revision/latest/scale-to-width-down/485?cb=20230101225126",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Royalty",
+    "affiliation": "Sakura Kingdom",
+    "devilFruitType": "Zoan",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'2\"",
+    "heightCm": 218,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Drum Island"
+  },
+  {
+    "name": "Hiriluk",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/c0/Hiriluk_Anime_Infobox.png/revision/latest/scale-to-width-down/270?cb=20190519083444",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Doctor",
+    "affiliation": "Unknown",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 213,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Drum Island"
+  },
+  {
+    "name": "Pell",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/be/Pell_Anime_Infobox.png/revision/latest/scale-to-width-down/419?cb=20240903112506",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Arabasta Kingdom",
+    "devilFruitType": "Zoan",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'2\"",
+    "heightCm": 189,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Alabasta"
+  },
+  {
+    "name": "Chaka",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/73/Chaka_Anime_Infobox.png/revision/latest/scale-to-width-down/495?cb=20240922030609",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Arabasta Kingdom",
+    "devilFruitType": "Zoan",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 213,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Alabasta"
+  },
+  {
+    "name": "Dorry",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Dorry_Anime_Infobox.png/revision/latest/scale-to-width-down/398?cb=20250927120409",
+    "gender": "Male",
+    "species": "Giant",
+    "calling": "Pirate",
+    "affiliation": "Giant Warrior Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "74'2\"",
+    "heightCm": 2260,
+    "bounty": "1,800,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Little Garden"
+  },
+  {
+    "name": "Brogy",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Brogy_Anime_Infobox.png/revision/latest/scale-to-width-down/470?cb=20250824161255",
+    "gender": "Male",
+    "species": "Giant",
+    "calling": "Pirate",
+    "affiliation": "Giant Warrior Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "69'10\"",
+    "heightCm": 2130,
+    "bounty": "1,800,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Little Garden"
+  },
+  {
+    "name": "Wapol",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/3/33/Wapol_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/448?cb=20190519090502",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Evil Black Drum Kingdom; Drum Kingdom",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'9\"",
+    "heightCm": 207,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Drum Island"
+  },
+  {
+    "name": "Kureha",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Kureha_Anime_Infobox.png/revision/latest/scale-to-width-down/248?cb=20150819163116",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Doctor",
+    "affiliation": "Sakura Kingdom; Isshi-100",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'2\"",
+    "heightCm": 188,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Drum Island"
+  },
+  {
+    "name": "Conis",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Conis_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/226?cb=20251207162322",
+    "gender": "Female",
+    "species": "Skypiean",
+    "calling": "Musician",
+    "affiliation": "Pumpkin Cafe",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'9\"",
+    "heightCm": 176,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Skypiea"
+  },
+  {
+    "name": "Aisa",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/4e/Aisa_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/347?cb=20251207162352",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Unknown",
+    "affiliation": "Shandia; Wagomuland",
+    "devilFruitType": "None",
+    "haki": [
+      "Observation"
+    ],
+    "heightFt": "4'7\"",
+    "heightCm": 140,
+    "bounty": "None",
+    "seaOfBirth": "Sky Island",
+    "firstArc": "Skypiea"
+  },
+  {
+    "name": "Pagaya",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/5/5d/Pagaya_Anime_Infobox.png/revision/latest?cb=20140829001259",
+    "gender": "Male",
+    "species": "Skypiean",
+    "calling": "Dial Boat Engineer",
+    "affiliation": "Unknown",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'10\"",
+    "heightCm": 179,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Skypiea"
+  },
+  {
+    "name": "Masira",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/e0/Masira_Anime_Infobox.png/revision/latest?cb=20230904222812",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Saruyama Alliance",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "11'4\"",
+    "heightCm": 345,
+    "bounty": "23,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Jaya"
+  },
+  {
+    "name": "Oimo",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Oimo_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20231013231633",
+    "gender": "Male",
+    "species": "Giant",
+    "calling": "Pirate",
+    "affiliation": "World Government",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "52'6\"",
+    "heightCm": 1600,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Enies Lobby"
+  },
+  {
+    "name": "Gan Fall",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Gan_Fall_Anime_Infobox.png/revision/latest/scale-to-width-down/356?cb=20221111195904",
+    "gender": "Male",
+    "species": "Skypiean",
+    "calling": "God of Skypiea; Mercenary",
+    "affiliation": "Skypiea",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'11\"",
+    "heightCm": 180,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Skypiea"
+  },
+  {
+    "name": "Kashii",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/72/Kashii_Anime_Infobox.png/revision/latest/scale-to-width-down/408?cb=20170529154313",
+    "gender": "Male",
+    "species": "Giant",
+    "calling": "Pirate",
+    "affiliation": "World Government",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "55'9\"",
+    "heightCm": 1700,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Enies Lobby"
+  },
+  {
+    "name": "Shoujou",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/7b/Shoujou_Anime_Infobox.png/revision/latest/scale-to-width-down/401?cb=20230806183915",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Saruyama Alliance",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "11'6\"",
+    "heightCm": 351,
+    "bounty": "36,000,000",
+    "seaOfBirth": "South Blue",
+    "firstArc": "Jaya"
+  },
+  {
+    "name": "Mont Blanc Cricket",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Mont_Blanc_Cricket_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/460?cb=20251116160951",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Saruyama Alliance; Mont Blanc Family; His original crew",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'11\"",
+    "heightCm": 242,
+    "bounty": "25,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Jaya"
+  },
+  {
+    "name": "Wyper",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Wyper_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/263?cb=20231126004333",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Sniper",
+    "affiliation": "Shandia; God's Guards",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'0\"",
+    "heightCm": 183,
+    "bounty": "None",
+    "seaOfBirth": "Sky Island",
+    "firstArc": "Skypiea"
+  },
+  {
+    "name": "Porche",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Porche_Anime_Infobox.png/revision/latest/scale-to-width-down/187?cb=20240523234723",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Foxy Pirates; Flower Cheerleaders",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Long Ring Long Land"
+  },
+  {
+    "name": "Hamburg",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Hamburg_Anime_Infobox.png/revision/latest/scale-to-width-down/478?cb=20240523235041",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Foxy Pirates; Groggy Monsters",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Long Ring Long Land"
+  },
+  {
+    "name": "Enel",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Enel_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230520213625",
+    "gender": "Male",
+    "species": "Birkan",
+    "calling": "God of Skypiea",
+    "affiliation": "God's Army ; Automata",
+    "devilFruitType": "Logia",
+    "haki": [
+      "Observation"
+    ],
+    "heightFt": "8'9\"",
+    "heightCm": 266,
+    "bounty": "None",
+    "seaOfBirth": "Sky Island",
+    "firstArc": "Skypiea"
+  },
+  {
+    "name": "Shura",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/47/Shura_Anime_Infobox.png/revision/latest/scale-to-width-down/308?cb=20221124151120",
+    "gender": "Male",
+    "species": "Birkan",
+    "calling": "Priest of Enel",
+    "affiliation": "God's Army",
+    "devilFruitType": "None",
+    "haki": [
+      "Observation"
+    ],
+    "heightFt": "6'3\"",
+    "heightCm": 191,
+    "bounty": "None",
+    "seaOfBirth": "Sky Island",
+    "firstArc": "Skypiea"
+  },
+  {
+    "name": "Kokoro",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/cc/Kokoro_Anime_Infobox.png/revision/latest/scale-to-width-down/345?cb=20250318233550",
+    "gender": "Female",
+    "species": "Merfolk",
+    "calling": "Stationmaster; \"Lovely\" secretary of Tom",
+    "affiliation": "Tom's Workers",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'6\"",
+    "heightCm": 168,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Water 7"
+  },
+  {
+    "name": "Ohm",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/4b/Ohm_Anime_Infobox.png/revision/latest/scale-to-width-down/291?cb=20221110020611",
+    "gender": "Male",
+    "species": "Birkan",
+    "calling": "Swordsman",
+    "affiliation": "God's Army",
+    "devilFruitType": "None",
+    "haki": [
+      "Observation"
+    ],
+    "heightFt": "6'2\"",
+    "heightCm": 189,
+    "bounty": "None",
+    "seaOfBirth": "Sky Island",
+    "firstArc": "Skypiea"
+  },
+  {
+    "name": "Satori",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/1/11/Satori_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20180908093921",
+    "gender": "Male",
+    "species": "Birkan",
+    "calling": "Priest of Enel",
+    "affiliation": "God's Army",
+    "devilFruitType": "None",
+    "haki": [
+      "Observation"
+    ],
+    "heightFt": "5'10\"",
+    "heightCm": 179,
+    "bounty": "None",
+    "seaOfBirth": "Sky Island",
+    "firstArc": "Skypiea"
+  },
+  {
+    "name": "Chimney",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/b3/Chimney_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/318?cb=20250318234329",
+    "gender": "Female",
+    "species": "Merfolk",
+    "calling": "Sunday stationmaster of the Shift Station",
+    "affiliation": "Kokoro",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "3'9\"",
+    "heightCm": 115,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Water 7"
+  },
+  {
+    "name": "Gedatsu",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/43/Gedatsu_Anime_Infobox.png/revision/latest/scale-to-width-down/279?cb=20230806232042",
+    "gender": "Male",
+    "species": "Birkan",
+    "calling": "Priest of Enel , Head Clerk of Hot Springs Resort",
+    "affiliation": "Ukkari Hot-Spring Island; God's Army",
+    "devilFruitType": "None",
+    "haki": [
+      "Observation"
+    ],
+    "heightFt": "7'2\"",
+    "heightCm": 220,
+    "bounty": "None",
+    "seaOfBirth": "Sky Island",
+    "firstArc": "Skypiea"
+  },
+  {
+    "name": "Foxy",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/7d/Foxy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/500?cb=20251102162706",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Foxy Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'11\"",
+    "heightCm": 180,
+    "bounty": "24,000,000",
+    "seaOfBirth": "South Blue",
+    "firstArc": "Long Ring Long Land"
+  },
+  {
+    "name": "Paulie",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/62/Paulie_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/500?cb=20251102160614",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Shipwright",
+    "affiliation": "Galley-La Company",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'5\"",
+    "heightCm": 195,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Water 7"
+  },
+  {
+    "name": "Gonbe",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Gonbe_Anime_Infobox.png/revision/latest/scale-to-width-down/262?cb=20250318234500",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pet",
+    "affiliation": "Chimney",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Water 7"
+  },
+  {
+    "name": "Zambai",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Zambai_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/213?cb=20210313192955",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Galley-La Company",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'5\"",
+    "heightCm": 227,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Water 7"
+  },
+  {
+    "name": "Tom",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Tom_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20210404151116",
+    "gender": "Male",
+    "species": "Fish-Man",
+    "calling": "Shipwright",
+    "affiliation": "Tom's Workers",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "9'8\"",
+    "heightCm": 296,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Water 7"
+  },
+  {
+    "name": "Nero",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/f9/Nero_Anime_Infobox.png/revision/latest/scale-to-width-down/271?cb=20221024015622",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Assassin",
+    "affiliation": "CP9",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'7\"",
+    "heightCm": 202,
+    "bounty": "None",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Water 7"
+  },
+  {
+    "name": "Peepley Lulu",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/71/Peepley_Lulu_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/500?cb=20251102160639",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Galley-La Company",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'9\"",
+    "heightCm": 206,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Water 7"
+  },
+  {
+    "name": "Corgi",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/66/Corgi_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230917140531",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Government official",
+    "affiliation": "World Government",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Water 7"
+  },
+  {
+    "name": "Tilestone",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Tilestone_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20250223233624",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Shipwright",
+    "affiliation": "Galley-La Company",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "8'4\"",
+    "heightCm": 255,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Water 7"
+  },
+  {
+    "name": "Wanze",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/5/56/Wanze_Anime_Infobox.png/revision/latest/scale-to-width-down/487?cb=20240610183708",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Cook",
+    "affiliation": "CP7",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'8\"",
+    "heightCm": 173,
+    "bounty": "None",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Water 7"
+  },
+  {
+    "name": "Iceburg",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/0/00/Iceburg_Anime_Infobox.png/revision/latest/scale-to-width-down/405?cb=20230620131854",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Shipwright",
+    "affiliation": "Galley-La Company; Water 7; Tom's Workers",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'6\"",
+    "heightCm": 199,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Water 7"
+  },
+  {
+    "name": "Camie",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/af/Camie_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/281?cb=20130912213617",
+    "gender": "Female",
+    "species": "Merfolk",
+    "calling": "Fashion designing apprentice",
+    "affiliation": "Takoyaki 8, Mermaid Cafe; Criminal brand",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 197,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Alabasta"
+  },
+  {
+    "name": "Shu",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Shu_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20160626183125",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Marine",
+    "affiliation": "Marines",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Enies Lobby"
+  },
+  {
+    "name": "Pappag",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/3/32/Pappag_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20140413064635",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Fashion Designer; Takoyaki seller; Pet",
+    "affiliation": "Criminal brand; Takoyaki 8",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "1'7\"",
+    "heightCm": 50,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Alabasta"
+  },
+  {
+    "name": "Boa Sandersonia",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Boa_Sandersonia_Anime_Infobox.png/revision/latest/scale-to-width-down/337?cb=20141017161424",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Ruler of Amazon Lily; Slave",
+    "affiliation": "Kuja Pirates",
+    "devilFruitType": "Zoan",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "14'10\"",
+    "heightCm": 453,
+    "bounty": "40,000,000",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Amazon Lily"
+  },
+  {
+    "name": "Sharinguru",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/0/0e/Sharinguru_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230812130253",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Marines",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Enies Lobby"
+  },
+  {
+    "name": "Duval",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/8/86/Duval_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230707025409",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Leader of the Rosy Life Riders ; Mafia",
+    "affiliation": "Rosy Life Riders",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "15'5\"",
+    "heightCm": 470,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Sabaody Archipelago"
+  },
+  {
+    "name": "T Bone",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/0/08/T_Bone_Anime_Infobox.png/revision/latest/scale-to-width-down/314?cb=20230427165456",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'7\"",
+    "heightCm": 200,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Water 7"
+  },
+  {
+    "name": "Shakuyaku",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Shakuyaku_Anime_Infobox.png/revision/latest/scale-to-width-down/204?cb=20241117020947",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Kuja Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'1\"",
+    "heightCm": 186,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Sabaody Archipelago"
+  },
+  {
+    "name": "Hatchan",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Hatchan_Anime_Infobox.png/revision/latest/scale-to-width-down/302?cb=20221003174139",
+    "gender": "Male",
+    "species": "Fish-Man",
+    "calling": "Pirate",
+    "affiliation": "Sun Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'3\"",
+    "heightCm": 220,
+    "bounty": "8,000,000",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Arlong Park"
+  },
+  {
+    "name": "Sweet Pea",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/5/50/Sweet_Pea_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20140928162454",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Kuja Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Amazon Lily"
+  },
+  {
+    "name": "Gloriosa",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/29/Gloriosa_Anime_Infobox.png/revision/latest/scale-to-width-down/282?cb=20250820070441",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Kuja Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Amazon Lily"
+  },
+  {
+    "name": "Saldeath",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/9/99/Saldeath_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/500?cb=20130303123341",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Chief Guard",
+    "affiliation": "Impel Down",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'1\"",
+    "heightCm": 218,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Impel Down"
+  },
+  {
+    "name": "Boa Marigold",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/6c/Boa_Marigold_Anime_Infobox.png/revision/latest/scale-to-width-down/445?cb=20150903140509",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Ruler of Amazon Lily; Slave",
+    "affiliation": "Kuja Pirates",
+    "devilFruitType": "Zoan",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "14'2\"",
+    "heightCm": 432,
+    "bounty": "40,000,000",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Amazon Lily"
+  },
+  {
+    "name": "Magellan",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/9/9e/Magellan_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/500?cb=20251102163212",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Vice Warden; Chief Warden",
+    "affiliation": "Impel Down",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "16'1\"",
+    "heightCm": 491,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Impel Down"
+  },
+  {
+    "name": "Aphelandra",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/3/31/Aphelandra_Anime_Infobox.png/revision/latest/scale-to-width-down/324?cb=20140928162409",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Kuja Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Amazon Lily"
+  },
+  {
+    "name": "Sadi",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/3/38/Sadi_Anime_Infobox.png/revision/latest/scale-to-width-down/316?cb=20221023232535",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Chief Guard",
+    "affiliation": "Impel Down",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'0\"",
+    "heightCm": 183,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Impel Down"
+  },
+  {
+    "name": "Marguerite",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/cc/Marguerite_Anime_Infobox.png/revision/latest/scale-to-width-down/313?cb=20140928162219",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Kuja Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'10\"",
+    "heightCm": 178,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Amazon Lily"
+  },
+  {
+    "name": "Hannyabal",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/8/86/Hannyabal_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/314?cb=20230920224617",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Chief Warden; Vice Warden",
+    "affiliation": "Impel Down",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "10'1\"",
+    "heightCm": 309,
+    "bounty": "None",
+    "seaOfBirth": "South Blue",
+    "firstArc": "Impel Down"
+  },
+  {
+    "name": "Domino",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/1/11/Domino_Manga_Post_Timeskip_Infobox.png/revision/latest?cb=20170312041522",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Head Jailer; Vice Head Jailer",
+    "affiliation": "Impel Down",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Impel Down"
+  },
+  {
+    "name": "Squard",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Squard_Anime_Infobox.png/revision/latest/scale-to-width-down/410?cb=20140921221031",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Whitebeard Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'5\"",
+    "heightCm": 228,
+    "bounty": "210,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Marineford"
+  },
+  {
+    "name": "Shimotsuki Koushirou",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/61/Shimotsuki_Koushirou_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/500?cb=20251109160750",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Shimotsuki Family",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'0\"",
+    "heightCm": 184,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Romance Dawn"
+  },
+  {
+    "name": "Woop Slap",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Woop_Slap_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20190519184815",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Mayor",
+    "affiliation": "Foosha Village",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Romance Dawn"
+  },
+  {
+    "name": "Curly Dadan",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Curly_Dadan_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20160802231340",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Bandit",
+    "affiliation": "Dadan Family",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'3\"",
+    "heightCm": 221,
+    "bounty": "7,800,000",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Post-Enies Lobby"
+  },
+  {
+    "name": "Higuma",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Higuma_Anime_Infobox.png/revision/latest/scale-to-width-down/407?cb=20220828051240",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Higuma Bandits",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'3\"",
+    "heightCm": 190,
+    "bounty": "8,000,000",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Romance Dawn"
+  },
+  {
+    "name": "Shimotsuki Kuina",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Shimotsuki_Kuina_Anime_Infobox.png/revision/latest/scale-to-width-down/317?cb=20241110050028",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Shimotsuki Family",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "4'11\"",
+    "heightCm": 150,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Romance Dawn"
+  },
+  {
+    "name": "Little Oars Jr.",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Little_Oars_Jr._Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20250128010544",
+    "gender": "Male",
+    "species": "Giant",
+    "calling": "Pirate",
+    "affiliation": "Whitebeard Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "196'10\"",
+    "heightCm": 0,
+    "bounty": "550,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Marineford"
+  },
+  {
+    "name": "Makino",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/5/5a/Makino_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/397?cb=20240914133612",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Bar Owner; Bartender",
+    "affiliation": "Partys Bar",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'5\"",
+    "heightCm": 166,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Romance Dawn"
+  },
+  {
+    "name": "John Giant",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/28/John_Giant_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230222232558",
+    "gender": "Male",
+    "species": "Giant",
+    "calling": "Swordsman",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Loguetown"
+  },
+  {
+    "name": "Morgan",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Morgan_Anime_Infobox.png/revision/latest/scale-to-width-down/368?cb=20160802223743",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Marine",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "9'4\"",
+    "heightCm": 285,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Romance Dawn"
+  },
+  {
+    "name": "Piiman",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/8/8e/Piiman_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/302?cb=20251026160542",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Usopp Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "3'11\"",
+    "heightCm": 120,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Syrup Village"
+  },
+  {
+    "name": "Kaya",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Kaya_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/140?cb=20180617114926",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Medical student",
+    "affiliation": "Unknown",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'6\"",
+    "heightCm": 169,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Syrup Village"
+  },
+  {
+    "name": "Boodle",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/a9/Boodle_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/469?cb=20251102161418",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Mayor",
+    "affiliation": "Unknown",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'8\"",
+    "heightCm": 172,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Orange Town"
+  },
+  {
+    "name": "Sham",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/77/Sham_Anime_Infobox.png/revision/latest?cb=20250715224950",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Black Cat Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'7\"",
+    "heightCm": 201,
+    "bounty": "7,000,000",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Syrup Village"
+  },
+  {
+    "name": "Merry",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/ba/Merry_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/147?cb=20251026160814",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Butler",
+    "affiliation": "Kaya",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Syrup Village"
+  },
+  {
+    "name": "Tamanegi",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Tamanegi_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/349?cb=20251026160607",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Usopp Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "4'1\"",
+    "heightCm": 124,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Syrup Village"
+  },
+  {
+    "name": "Kuro",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Kuro_Anime_Infobox.png/revision/latest/scale-to-width-down/315?cb=20231006042805",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Black Cat Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 207,
+    "bounty": "16,000,000",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Syrup Village"
+  },
+  {
+    "name": "Chouchou",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Chouchou_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/343?cb=20251102161457",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pet; Pet Shop Keeper",
+    "affiliation": "Hocker",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "1'4\"",
+    "heightCm": 40,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Orange Town"
+  },
+  {
+    "name": "Ninjin",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/24/Ninjin_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/287?cb=20251026161026",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Usopp Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "4'2\"",
+    "heightCm": 127,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Syrup Village"
+  },
+  {
+    "name": "Buchi",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Buchi_Anime_Infobox.png/revision/latest/scale-to-width-down/367?cb=20250715224321",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Black Cat Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'1\"",
+    "heightCm": 216,
+    "bounty": "7,000,000",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Syrup Village"
+  },
+  {
+    "name": "Zeff",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/d9/Zeff_Anime_Infobox.png/revision/latest/scale-to-width-down/334?cb=20230617083525",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Baratie; Cook Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'2\"",
+    "heightCm": 189,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Baratie"
+  },
+  {
+    "name": "Kuroobi",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/1/17/Kuroobi_Anime_Infobox.png/revision/latest/scale-to-width-down/322?cb=20121220133817",
+    "gender": "Male",
+    "species": "Fish-Man",
+    "calling": "Pirate",
+    "affiliation": "Sun Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "8'3\"",
+    "heightCm": 252,
+    "bounty": "9,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Arlong Park"
+  },
+  {
+    "name": "Pearl",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/8/8f/Pearl_Anime_Infobox.png/revision/latest/scale-to-width-down/304?cb=20221003214553",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Krieg Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'10\"",
+    "heightCm": 239,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Baratie"
+  },
+  {
+    "name": "Carne",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Carne_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/299?cb=20170310102331",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Cook",
+    "affiliation": "Baratie",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'7\"",
+    "heightCm": 171,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Baratie"
+  },
+  {
+    "name": "Patty",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/5/51/Patty_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/500?cb=20251207161125",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Cook",
+    "affiliation": "Baratie",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'8\"",
+    "heightCm": 204,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Baratie"
+  },
+  {
+    "name": "Krieg",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/bb/Krieg_Anime_Infobox.png/revision/latest/scale-to-width-down/398?cb=20230123170612",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Krieg Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "8'0\"",
+    "heightCm": 243,
+    "bounty": "17,000,000",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Baratie"
+  },
+  {
+    "name": "Chew",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/0/05/Chew_Anime_Infobox.png/revision/latest/scale-to-width-down/237?cb=20240518182217",
+    "gender": "Male",
+    "species": "Fish-Man",
+    "calling": "Pirate",
+    "affiliation": "Sun Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "8'5\"",
+    "heightCm": 257,
+    "bounty": "5,500,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Arlong Park"
+  },
+  {
+    "name": "Arlong",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/0/01/Arlong_Anime_Infobox.png/revision/latest/scale-to-width-down/377?cb=20230403145629",
+    "gender": "Male",
+    "species": "Fish-Man",
+    "calling": "Pirate",
+    "affiliation": "Sun Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "8'8\"",
+    "heightCm": 263,
+    "bounty": "20,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Arlong Park"
+  },
+  {
+    "name": "Nezumi",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/9/9d/Nezumi_Anime_Infobox.png/revision/latest/scale-to-width-down/339?cb=20180706061857",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Marine",
+    "affiliation": "Marines; Marine 16th Branch",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'11\"",
+    "heightCm": 182,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Arlong Park"
+  },
+  {
+    "name": "Gin",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/49/Gin_Anime_Infobox.png/revision/latest/scale-to-width-down/434?cb=20220920031419",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Krieg Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'1\"",
+    "heightCm": 186,
+    "bounty": "12,000,000",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Baratie"
+  },
+  {
+    "name": "Galdino",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/1/13/Galdino_Anime_Infobox.png/revision/latest?cb=20221003165116",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Buggy Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'10\"",
+    "heightCm": 179,
+    "bounty": "24,000,000",
+    "seaOfBirth": "South Blue",
+    "firstArc": "Little Garden"
+  },
+  {
+    "name": "Bell-mère",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/3/3f/Bell-m%C3%A8re_Anime_Infobox.png/revision/latest/scale-to-width-down/301?cb=20231128171918",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Marine",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'1\"",
+    "heightCm": 186,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Arlong Park"
+  },
+  {
+    "name": "Laboon",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/8/88/Laboon_Anime_Infobox.png/revision/latest?cb=20180508212232",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Rumbar Pirates ; Crocus",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "1312'4\"",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Reverse Mountain"
+  },
+  {
+    "name": "Mr. 9",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Mr._9_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/353?cb=20251130161817",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Bounty Hunter",
+    "affiliation": "Baroque Works",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Reverse Mountain"
+  },
+  {
+    "name": "Igaram",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Igaram_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/478?cb=20190625115148",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Agent",
+    "affiliation": "Arabasta; Baroque Works",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'1\"",
+    "heightCm": 218,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Whisky Peak"
+  },
+  {
+    "name": "Marianne",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Marianne_Anime_Infobox.png/revision/latest?cb=20250115010211",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Agent",
+    "affiliation": "New Spiders Cafe; Baroque Works",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "4'9\"",
+    "heightCm": 145,
+    "bounty": "29,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Little Garden"
+  },
+  {
+    "name": "Miss Monday",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Miss_Monday_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/255?cb=20251130161712",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Bounty Hunter",
+    "affiliation": "Baroque Works",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Whisky Peak"
+  },
+  {
+    "name": "Nojiko",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Nojiko_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/139?cb=20251109161125",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Mikan Farmer",
+    "affiliation": "Bell-mère's mikan",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'7\"",
+    "heightCm": 170,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Arlong Park"
+  },
+  {
+    "name": "Genzo",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/fe/Genzo_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/358?cb=20251109161031",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Sheriff of Cocoyasi Village",
+    "affiliation": "Cocoyasi Village",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'8\"",
+    "heightCm": 173,
+    "bounty": "None",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Arlong Park"
+  },
+  {
+    "name": "Nefertari Vivi",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/0/09/Nefertari_Vivi_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/182?cb=20190505023647",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Straw Hat Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'7\"",
+    "heightCm": 169,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Reverse Mountain"
+  },
+  {
+    "name": "Kuromarimo",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/3/3c/Kuromarimo_Anime_Infobox.png/revision/latest/scale-to-width-down/490?cb=20230419163155",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Bliking Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'1\"",
+    "heightCm": 186,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Drum Island"
+  },
+  {
+    "name": "Chess",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/66/Chess_Anime_Infobox.png/revision/latest/scale-to-width-down/246?cb=20221003172343",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Bliking Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'4\"",
+    "heightCm": 194,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Drum Island"
+  },
+  {
+    "name": "Bellamy",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/27/Bellamy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/173?cb=20230116235201",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "7'10\"",
+    "heightCm": 240,
+    "bounty": "195,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Jaya"
+  },
+  {
+    "name": "Kamakiri",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Kamakiri_Anime_Infobox.png/revision/latest/scale-to-width-down/424?cb=20230812143313",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Shandia Warrior; God's Guard",
+    "affiliation": "Shandia; God's Guards",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 214,
+    "bounty": "None",
+    "seaOfBirth": "Sky Island",
+    "firstArc": "Skypiea"
+  },
+  {
+    "name": "Drophy",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/f4/Drophy_Anime_Infobox.png/revision/latest/scale-to-width-down/365?cb=20230624124714",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Agent",
+    "affiliation": "New Spiders Cafe; Baroque Works",
+    "devilFruitType": "Zoan",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'1\"",
+    "heightCm": 156,
+    "bounty": "14,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Alabasta"
+  },
+  {
+    "name": "Babe",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/da/Babe_Anime_Infobox.png/revision/latest/scale-to-width-down/324?cb=20230121225303",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Agent",
+    "affiliation": "New Spiders Cafe; Baroque Works",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'2\"",
+    "heightCm": 218,
+    "bounty": "3,200,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Alabasta"
+  },
+  {
+    "name": "Mikita",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Mikita_Anime_Infobox.png/revision/latest?cb=20230417164634",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Cook",
+    "affiliation": "New Spiders Cafe; Baroque Works",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'10\"",
+    "heightCm": 177,
+    "bounty": "7,500,000",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Whisky Peak"
+  },
+  {
+    "name": "Sarquiss",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/dd/Sarquiss_Anime_Infobox.png/revision/latest?cb=20230806215754",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Bellamy Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'6\"",
+    "heightCm": 228,
+    "bounty": "38,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Jaya"
+  },
+  {
+    "name": "Zala",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/60/Zala_Anime_Infobox.png/revision/latest/scale-to-width-down/247?cb=20221003164424",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Assassin",
+    "affiliation": "New Spiders Cafe; Baroque Works",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'2\"",
+    "heightCm": 187,
+    "bounty": "35,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Alabasta"
+  },
+  {
+    "name": "Gem",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/1/14/Gem_Anime_Infobox.png/revision/latest/scale-to-width-down/327?cb=20221003165534",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Sniper",
+    "affiliation": "New Spiders Cafe; Baroque Works",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'5\"",
+    "heightCm": 197,
+    "bounty": "10,000,000",
+    "seaOfBirth": "South Blue",
+    "firstArc": "Whisky Peak"
+  },
+  {
+    "name": "Shimotsuki Ryuma",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/6a/Shimotsuki_Ryuma_Anime_Infobox.png/revision/latest/scale-to-width-down/299?cb=20240121155620",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Samurai",
+    "affiliation": "Wano Country; Shimotsuki Family",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament"
+    ],
+    "heightFt": "5'10\"",
+    "heightCm": 179,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Wano Country"
+  },
+  {
+    "name": "Braham",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/3/39/Braham_Anime_Infobox.png/revision/latest?cb=20230812133611",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Sniper",
+    "affiliation": "Shandia; God's Guards",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'10\"",
+    "heightCm": 179,
+    "bounty": "None",
+    "seaOfBirth": "Sky Island",
+    "firstArc": "Skypiea"
+  },
+  {
+    "name": "Genbo",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/fa/Genbo_Anime_Infobox.png/revision/latest/scale-to-width-down/409?cb=20230812144019",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Sniper",
+    "affiliation": "Shandia; God's Guards",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'4\"",
+    "heightCm": 193,
+    "bounty": "None",
+    "seaOfBirth": "Sky Island",
+    "firstArc": "Skypiea"
+  },
+  {
+    "name": "Mont Blanc Noland",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/27/Mont_Blanc_Noland_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230806162218",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Lvneel Kingdom; Mont Blanc Family",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'2\"",
+    "heightCm": 220,
+    "bounty": "None",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Skypiea"
+  },
+  {
+    "name": "Kalgara",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kalgara_Anime_Infobox.png/revision/latest/scale-to-width-down/273?cb=20160526193151",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Warrior",
+    "affiliation": "Shandia",
+    "devilFruitType": "None",
+    "haki": [
+      "Observation"
+    ],
+    "heightFt": "7'3\"",
+    "heightCm": 222,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Skypiea"
+  },
+  {
+    "name": "Mozu and Kiwi",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Mozu_and_Kiwi_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20250224005132",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Franky Family",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'1\"",
+    "heightCm": 187,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Water 7"
+  },
+  {
+    "name": "Mozu and Kiwi",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Mozu_and_Kiwi_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20250224005132",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Franky Family",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'1\"",
+    "heightCm": 187,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Water 7"
+  },
+  {
+    "name": "Oars",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/5/55/Oars_Anime_Infobox.png/revision/latest/scale-to-width-down/467?cb=20230528185603",
+    "gender": "Male",
+    "species": "Giant",
+    "calling": "Special Zombie; Leader of clan of evil giants",
+    "affiliation": "Thriller Bark Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "219'10\"",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Thriller Bark"
+  },
+  {
+    "name": "Raki",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Raki_Anime_Infobox.png/revision/latest/scale-to-width-down/439?cb=20161029212453",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Sniper",
+    "affiliation": "Shandia; Pumpkin Cafe",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'10\"",
+    "heightCm": 179,
+    "bounty": "None",
+    "seaOfBirth": "Sky Island",
+    "firstArc": "Skypiea"
+  },
+  {
+    "name": "Manboshi",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/8/82/Manboshi_Anime_Infobox.png/revision/latest/scale-to-width-down/325?cb=20130430234840",
+    "gender": "Male",
+    "species": "Merfolk",
+    "calling": "Royalty",
+    "affiliation": "Neptune Family",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "15'6\"",
+    "heightCm": 473,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Fish-Man Island"
+  },
+  {
+    "name": "Ryuboshi",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/d2/Ryuboshi_Anime_Infobox.png/revision/latest/scale-to-width-down/287?cb=20130128033938",
+    "gender": "Male",
+    "species": "Merfolk",
+    "calling": "Royalty",
+    "affiliation": "Neptune Family",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 544,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Fish-Man Island"
+  },
+  {
+    "name": "Fukaboshi",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/29/Fukaboshi_Anime_Infobox.png/revision/latest/scale-to-width-down/429?cb=20140107021229",
+    "gender": "Male",
+    "species": "Merfolk",
+    "calling": "Royalty",
+    "affiliation": "Neptune Family",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 604,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Fish-Man Island"
+  },
+  {
+    "name": "Fisher Tiger",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/c5/Fisher_Tiger_Anime_Infobox.png/revision/latest/scale-to-width-down/403?cb=20230214162116",
+    "gender": "Male",
+    "species": "Fish-Man",
+    "calling": "Pirate",
+    "affiliation": "Sun Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "17'1\"",
+    "heightCm": 520,
+    "bounty": "230,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Amazon Lily"
+  },
+  {
+    "name": "Vander Decken IX",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/d3/Vander_Decken_IX_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20130504034305",
+    "gender": "Male",
+    "species": "Fish-Man",
+    "calling": "Pirate",
+    "affiliation": "Flying Pirates; Ally of the New Fish-Man Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "11'7\"",
+    "heightCm": 352,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Fish-Man Island"
+  },
+  {
+    "name": "Shirahoshi",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Shirahoshi_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20240814220909",
+    "gender": "Female",
+    "species": "Merfolk",
+    "calling": "Royalty",
+    "affiliation": "Neptune Family; Ryugu Kingdom",
+    "devilFruitType": "None",
+    "haki": [
+      "Observation"
+    ],
+    "heightFt": "38'11\"",
+    "heightCm": 1187,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Fish-Man Island"
+  },
+  {
+    "name": "Otohime",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/c7/Otohime_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20130427195608",
+    "gender": "Female",
+    "species": "Merfolk",
+    "calling": "Royalty",
+    "affiliation": "Neptune Family; Ryugu Kingdom",
+    "devilFruitType": "None",
+    "haki": [
+      "Observation"
+    ],
+    "heightFt": "7'4\"",
+    "heightCm": 224,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Fish-Man Island"
+  },
+  {
+    "name": "Charlotte Lola",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/f0/Charlotte_Lola_Manga_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/348?cb=20201012081800",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Big Mom Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'0\"",
+    "heightCm": 215,
+    "bounty": "24,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Thriller Bark"
+  },
+  {
+    "name": "Neptune",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/40/Neptune_Anime_Infobox.png/revision/latest/scale-to-width-down/416?cb=20131206042454",
+    "gender": "Male",
+    "species": "Merfolk",
+    "calling": "Royalty",
+    "affiliation": "Neptune Family; Ryugu Kingdom",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 1220,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Fish-Man Island"
+  },
+  {
+    "name": "Hody Jones",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/f3/Hody_Jones_Anime_Infobox.png/revision/latest/scale-to-width-down/470?cb=20230609234039",
+    "gender": "Male",
+    "species": "Fish-Man",
+    "calling": "Pirate",
+    "affiliation": "New Fish-Man Pirates; Ally of the Flying Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "10'10\"",
+    "heightCm": 331,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Fish-Man Island"
+  },
+  {
+    "name": "Gladius",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Gladius_Anime_Infobox.png/revision/latest/scale-to-width-down/395?cb=20231025224459",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "8'6\"",
+    "heightCm": 260,
+    "bounty": "31,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Punk Hazard"
+  },
+  {
+    "name": "Lao G",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/5/52/Lao_G_Anime_Infobox.png/revision/latest/scale-to-width-down/259?cb=20141202204639",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'2\"",
+    "heightCm": 157,
+    "bounty": "61,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Punk Hazard"
+  },
+  {
+    "name": "Baby 5",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Baby_5_Anime_Infobox.png/revision/latest/scale-to-width-down/216?cb=20221011013323",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'11\"",
+    "heightCm": 181,
+    "bounty": "None",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Punk Hazard"
+  },
+  {
+    "name": "Giolla",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/21/Giolla_Anime_Infobox.png/revision/latest/scale-to-width-down/295?cb=20221117034510",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'3\"",
+    "heightCm": 221,
+    "bounty": "None",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Punk Hazard"
+  },
+  {
+    "name": "Dellinger",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/8/8b/Dellinger_Anime_Infobox.png/revision/latest/scale-to-width-down/186?cb=20150415222442",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "4'9\"",
+    "heightCm": 145,
+    "bounty": "15,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Buffalo",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/ab/Buffalo_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20131104002420",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "22'10\"",
+    "heightCm": 696,
+    "bounty": "None",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Punk Hazard"
+  },
+  {
+    "name": "Machvise",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/6e/Machvise_Anime_Infobox.png/revision/latest/scale-to-width-down/429?cb=20140916075009",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "14'5\"",
+    "heightCm": 440,
+    "bounty": "11,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Punk Hazard"
+  },
+  {
+    "name": "Camie",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/af/Camie_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/281?cb=20130912213617",
+    "gender": "Female",
+    "species": "Merfolk",
+    "calling": "Fashion designing apprentice",
+    "affiliation": "Takoyaki 8, Mermaid Cafe; Criminal brand",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 197,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Alabasta"
+  },
+  {
+    "name": "Donquixote Rosinante",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/71/Donquixote_Rosinante_Anime_Infobox.png/revision/latest/scale-to-width-down/337?cb=20150802160734",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Marines; Donquixote Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "9'7\"",
+    "heightCm": 293,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Cavendish",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/a1/Cavendish_Anime_Infobox.png/revision/latest/scale-to-width-down/257?cb=20140224010824",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "6'10\"",
+    "heightCm": 208,
+    "bounty": "330,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Kyros",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Kyros_Anime_Infobox.png/revision/latest/scale-to-width-down/229?cb=20221018190117",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Corrida Colosseum ; Riku Family",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "9'9\"",
+    "heightCm": 298,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Chinjao",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/b0/Chinjao_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20180508221950",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "Conquerors",
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "17'1\"",
+    "heightCm": 520,
+    "bounty": "542,000,000",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Mansherry",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/5/54/Mansherry_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20161221094836",
+    "gender": "Female",
+    "species": "Dwarf",
+    "calling": "Royalty",
+    "affiliation": "Tontatta Kingdom",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 20,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Blue Gilly",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Blue_Gilly_Anime_Infobox.png/revision/latest/scale-to-width-down/176?cb=20140323171231",
+    "gender": "Male",
+    "species": "Longleg",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "10'3\"",
+    "heightCm": 314,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Hajrudin",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/b8/Hajrudin_Anime_Infobox.png/revision/latest/scale-to-width-down/329?cb=20240319195654",
+    "gender": "Male",
+    "species": "Giant",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "72'2\"",
+    "heightCm": 2200,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Leo",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/be/Leo_Anime_Infobox.png/revision/latest?cb=20200422024534",
+    "gender": "Male",
+    "species": "Tontatta",
+    "calling": "Pirate",
+    "affiliation": "Tontatta Kingdom; Straw Hat Grand Fleet",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 23,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Bartolomeo",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/eb/Bartolomeo_Anime_Infobox.png/revision/latest/scale-to-width-down/220?cb=20221027202808",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Barto Club; his own Mafia Family ; Straw Hat Grand Fleet",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'3\"",
+    "heightCm": 220,
+    "bounty": "200,000,000",
+    "seaOfBirth": "East Blue",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Sai",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/db/Sai_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230301234122",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "7'11\"",
+    "heightCm": 242,
+    "bounty": "210,000,000",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Boo",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Boo_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20140526091115",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Ideo",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/3/30/Ideo_Anime_Infobox.png/revision/latest/scale-to-width-down/201?cb=20140519060612",
+    "gender": "Male",
+    "species": "Longarm",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'5\"",
+    "heightCm": 225,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Pedro",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/c8/Pedro_Anime_Infobox.png/revision/latest/scale-to-width-down/403?cb=20170423080015",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Mink Tribe",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "7'8\"",
+    "heightCm": 233,
+    "bounty": "382,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Zou"
+  },
+  {
+    "name": "Ginrummy",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/ed/Ginrummy_Anime_Infobox.png/revision/latest/scale-to-width-down/282?cb=20170116011351",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Shinuchi",
+    "affiliation": "Beasts Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Viola",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Viola_Anime_Infobox.png/revision/latest/scale-to-width-down/313?cb=20221027021751",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Donquixote Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'10\"",
+    "heightCm": 178,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Riku Doldo III",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/48/Riku_Doldo_III_Anime_Infobox.png/revision/latest/scale-to-width-down/262?cb=20230114034249",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Royalty",
+    "affiliation": "Riku Family",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "8'6\"",
+    "heightCm": 261,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Sheepshead",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/8/81/Sheepshead_Anime_Infobox.png/revision/latest/scale-to-width-down/399?cb=20240906231140",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Beasts Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "9'7\"",
+    "heightCm": 293,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Wanda",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/75/Wanda_Anime_Infobox.png/revision/latest/scale-to-width-down/259?cb=20160829034647",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Mink Tribe",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'11\"",
+    "heightCm": 181,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Zou"
+  },
+  {
+    "name": "Carrot",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Carrot_Anime_Infobox.png/revision/latest/scale-to-width-down/188?cb=20180826142459",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Ruler of Mokomo Dukedom; Musketeer",
+    "affiliation": "Mink Tribe",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'3\"",
+    "heightCm": 161,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Zou"
+  },
+  {
+    "name": "Rebecca",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/f/f6/Rebecca_Anime_Infobox.png/revision/latest/scale-to-width-down/240?cb=20190519094508",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Royalty",
+    "affiliation": "Dressrosa; Corrida Colosseum",
+    "devilFruitType": "None",
+    "haki": [
+      "Observation"
+    ],
+    "heightFt": "5'7\"",
+    "heightCm": 171,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Issho",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Issho_Anime_Infobox.png/revision/latest/scale-to-width-down/308?cb=20220718140829",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Marines",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "8'10\"",
+    "heightCm": 270,
+    "bounty": "3,000,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Nekomamushi",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/a2/Nekomamushi_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20220419121421",
+    "gender": "Male",
+    "species": "Cyborg",
+    "calling": "Pirate",
+    "affiliation": "Whitebeard Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "17'1\"",
+    "heightCm": 522,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Zou"
+  },
+  {
+    "name": "Charlotte Opera",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/5/56/Charlotte_Opera_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20170528044001",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Big Mom Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Inuarashi",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/9/9f/Inuarashi_Anime_Infobox.png/revision/latest/scale-to-width-down/316?cb=20250516022630",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Whitebeard Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "16'9\"",
+    "heightCm": 511,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Zou"
+  },
+  {
+    "name": "Tamago",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/49/Tamago_Anime_Infobox.png/revision/latest/scale-to-width-down/323?cb=20171126235414",
+    "gender": "Male",
+    "species": "Longleg",
+    "calling": "Pirate",
+    "affiliation": "Big Mom Pirates",
+    "devilFruitType": "Zoan",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "9'10\"",
+    "heightCm": 301,
+    "bounty": "429,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Fish-Man Island"
+  },
+  {
+    "name": "Bobbin",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/1/1c/Bobbin_Anime_Infobox.png/revision/latest/scale-to-width-down/426?cb=20171112035640",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Big Mom Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "105,500,000",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Fish-Man Island"
+  },
+  {
+    "name": "Raizo",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/23/Raizo_Anime_Infobox.png/revision/latest/scale-to-width-down/410?cb=20161218152812",
+    "gender": "Male",
+    "species": "Oni",
+    "calling": "Swordsman",
+    "affiliation": "Kouzuki Family; Nine Red Scabbards; Ninja-Pirate-Mink-Samurai Alliance",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "10'2\"",
+    "heightCm": 311,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Zou"
+  },
+  {
+    "name": "Charlotte Galette",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/71/Charlotte_Galette_Anime_Infobox.png/revision/latest/scale-to-width-down/398?cb=20180721222625",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Big Mom Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Kurozumi Kanjuro",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kurozumi_Kanjuro_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20150503144042",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Theatre Performer",
+    "affiliation": "Kurozumi Family; Kouzuki Family",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "11'5\"",
+    "heightCm": 347,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Dressrosa"
+  },
+  {
+    "name": "Charlotte Amande",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Charlotte_Amande_Anime_Infobox.png/revision/latest/scale-to-width-down/463?cb=20171016155845",
+    "gender": "Female",
+    "species": "Snakeneck",
+    "calling": "Pirate",
+    "affiliation": "Big Mom Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Charlotte Mont-d'Or",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Charlotte_Mont-d%27Or_Anime_Infobox.png/revision/latest/scale-to-width-down/215?cb=20180325090436",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Big Mom Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "8'6\"",
+    "heightCm": 260,
+    "bounty": "120,000,000",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Vinsmoke Ichiji",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/7c/Vinsmoke_Ichiji_Anime_Infobox.png/revision/latest?cb=20180625103724",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Royalty",
+    "affiliation": "Germa 66",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'1\"",
+    "heightCm": 186,
+    "bounty": "None",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Gotti",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/a1/Gotti_Anime_Infobox.png/revision/latest/scale-to-width-down/355?cb=20230123020057",
+    "gender": "Male",
+    "species": "Cyborg",
+    "calling": "Pirate",
+    "affiliation": "Fire Tank Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "12'4\"",
+    "heightCm": 375,
+    "bounty": "90,000,000",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Charlotte Chiffon",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Charlotte_Chiffon_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20170409062554",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Fire Tank Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'1\"",
+    "heightCm": 215,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Pekoms",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/1/15/Pekoms_Anime_Infobox.png/revision/latest/scale-to-width-down/261?cb=20221107145536",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Big Mom Pirates",
+    "devilFruitType": "Zoan",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "7'7\"",
+    "heightCm": 232,
+    "bounty": "330,000,000",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Fish-Man Island"
+  },
+  {
+    "name": "Vinsmoke Niji",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Vinsmoke_Niji_Anime_Infobox.png/revision/latest/scale-to-width-down/367?cb=20180618054009",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Royalty",
+    "affiliation": "Germa 66",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'1\"",
+    "heightCm": 185,
+    "bounty": "None",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Vinsmoke Yonji",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/e/e7/Vinsmoke_Yonji_Anime_Infobox.png/revision/latest/scale-to-width-down/265?cb=20170416175856",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Royalty",
+    "affiliation": "Germa 66",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'4\"",
+    "heightCm": 194,
+    "bounty": "None",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Pound",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/4e/Pound_Anime_Infobox.png/revision/latest/scale-to-width-down/337?cb=20231128030318",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Unknown",
+    "affiliation": "Charlotte Family &nbsp;‡",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "24'0\"",
+    "heightCm": 731,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Vinsmoke Judge",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/6f/Vinsmoke_Judge_Anime_Infobox.png/revision/latest/scale-to-width-down/312?cb=20170626124958",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Royalty",
+    "affiliation": "Germa 66",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament"
+    ],
+    "heightFt": "8'11\"",
+    "heightCm": 272,
+    "bounty": "None",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Vito",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/0/09/Vito_Anime_Infobox.png/revision/latest/scale-to-width-down/420?cb=20221124193213",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Fire Tank Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'11\"",
+    "heightCm": 242,
+    "bounty": "95,000,000",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Zou"
+  },
+  {
+    "name": "Kawamatsu",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/5/5e/Kawamatsu_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20201215013006",
+    "gender": "Male",
+    "species": "Fish-Man",
+    "calling": "Swordsman",
+    "affiliation": "Kouzuki Family; Nine Red Scabbards; Ninja-Pirate-Mink-Samurai Alliance",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "8'11\"",
+    "heightCm": 271,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Wano Country"
+  },
+  {
+    "name": "Morgans",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/8/87/Morgans_Anime_Infobox.png/revision/latest/scale-to-width-down/408?cb=20240526034406",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "World Economy News Paper President; Emperor of the Underworld",
+    "affiliation": "World Economy News Paper; Underworld",
+    "devilFruitType": "Zoan",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "10'0\"",
+    "heightCm": 305,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Kouzuki Hiyori",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/9/97/Kouzuki_Hiyori_Anime_Infobox.png/revision/latest/scale-to-width-down/391?cb=20200811195812",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Musician",
+    "affiliation": "Kouzuki Family; Ninja-Pirate-Mink-Samurai Alliance",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'7\"",
+    "heightCm": 170,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Wano Country"
+  },
+  {
+    "name": "Denjiro",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Denjiro_Anime_Infobox.png/revision/latest/scale-to-width-down/322?cb=20210718045127",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Kouzuki Family; Nine Red Scabbards; Kyoshiro Family; Kurozumi Family",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "10'0\"",
+    "heightCm": 306,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Wano Country"
+  },
+  {
+    "name": "Vinsmoke Reiju",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/a3/Vinsmoke_Reiju_Anime_Infobox.png/revision/latest/scale-to-width-down/209?cb=20231211104854",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Royalty",
+    "affiliation": "Germa 66",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "5'8\"",
+    "heightCm": 173,
+    "bounty": "None",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Whole Cake Island"
+  },
+  {
+    "name": "Kouzuki Toki",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Kouzuki_Toki_Anime_Infobox.png/revision/latest/scale-to-width-down/195?cb=20240923154828",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Whitebeard Pirates",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'3\"",
+    "heightCm": 190,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Wano Country"
+  },
+  {
+    "name": "Ashura Doji",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/44/Ashura_Doji_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20191201102956",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Mt. Atama Thieves; Kouzuki Family; Nine Red Scabbards; Ninja-Pirate-Mink-Samurai Alliance",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "17'10\"",
+    "heightCm": 544,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Wano Country"
+  },
+  {
+    "name": "Kikunojo",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/1/12/Kikunojo_Anime_Infobox.png/revision/latest/scale-to-width-down/436?cb=20200620104530",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Kouzuki Family; Nine Red Scabbards; Ninja-Pirate-Mink-Samurai Alliance",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "9'5\"",
+    "heightCm": 287,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Wano Country"
+  },
+  {
+    "name": "Kurozumi Orochi",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/4/49/Kurozumi_Orochi_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230911061118",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Swordsman",
+    "affiliation": "Wano Country ;",
+    "devilFruitType": "Mythical Zoan",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "11'6\"",
+    "heightCm": 350,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Wano Country"
+  },
+  {
+    "name": "Kouzuki Oden",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/7/7a/Kouzuki_Oden_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20210425071747",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Pirate",
+    "affiliation": "Whitebeard Pirates",
+    "devilFruitType": "None",
+    "haki": [
+      "Conquerors",
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "12'6\"",
+    "heightCm": 382,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Wano Country"
+  },
+  {
+    "name": "Imu",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Imu_Anime_Infobox.png/revision/latest/scale-to-width-down/220?cb=20250726131515",
+    "gender": "Unknown",
+    "species": "Human",
+    "calling": "Supreme ruler of the World Government",
+    "affiliation": "World Government",
+    "devilFruitType": "None",
+    "haki": [
+      "Conquerors",
+      "Observation"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Levely"
+  },
+  {
+    "name": "Vegapunk/Edison",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/8/8f/Edison_Anime_Infobox.png/revision/latest/scale-to-width-down/453?cb=20240428152557",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Marine",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "3'3\"",
+    "heightCm": 100,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Egghead"
+  },
+  {
+    "name": "Aramaki",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/0/05/Aramaki_Anime_Infobox.png/revision/latest/scale-to-width-down/291?cb=20240930142146",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Admiral; Police Officer",
+    "affiliation": "Marines",
+    "devilFruitType": "Logia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "10'1\"",
+    "heightCm": 308,
+    "bounty": "3,000,000,000",
+    "seaOfBirth": "South Blue",
+    "firstArc": "Levely"
+  },
+  {
+    "name": "Vegapunk/Shaka",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/0/0f/Shaka_Anime_Infobox.png/revision/latest/scale-to-width-down/192?cb=20240303030112",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Marine",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "7'3\"",
+    "heightCm": 220,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Egghead"
+  },
+  {
+    "name": "Vegapunk/Pythagoras",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/c/c1/Pythagoras_Anime_Infobox.png/revision/latest/scale-to-width-down/304?cb=20240602020823",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Marine",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "11'2\"",
+    "heightCm": 341,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Egghead"
+  },
+  {
+    "name": "Vegapunk",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/b/b9/Vegapunk_Anime_Infobox.png/revision/latest/scale-to-width-down/221?cb=20240428020834",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Marine",
+    "affiliation": "Marines",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "10'4\"",
+    "heightCm": 314,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Punk Hazard"
+  },
+  {
+    "name": "Jaygarcia Saturn",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/ae/Jaygarcia_Saturn_Anime_Infobox.png/revision/latest/scale-to-width-down/411?cb=20250409120617",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Scientist",
+    "affiliation": "Five Elders; World Nobles",
+    "devilFruitType": "Mythical Zoan",
+    "haki": [
+      "Conquerors",
+      "Observation"
+    ],
+    "heightFt": "Unknown",
+    "heightCm": 0,
+    "bounty": "None",
+    "seaOfBirth": "Unknown",
+    "firstArc": "Jaya"
+  },
+  {
+    "name": "Vegapunk/York",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/9/99/York_Anime_Infobox.png/revision/latest/scale-to-width-down/300?cb=20240714022211",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Unknown",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "15'10\"",
+    "heightCm": 482,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Egghead"
+  },
+  {
+    "name": "Vegapunk/Atlas",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Atlas_Anime_Infobox.png/revision/latest/scale-to-width-down/268?cb=20240602021244",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Marine",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "23'11\"",
+    "heightCm": 729,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Egghead"
+  },
+  {
+    "name": "Vegapunk/Lilith",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/63/Lilith_Anime_Infobox.png/revision/latest/scale-to-width-down/363?cb=20240609022158",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Marine",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "None"
+    ],
+    "heightFt": "6'8\"",
+    "heightCm": 204,
+    "bounty": "None",
+    "seaOfBirth": "Grand Line",
+    "firstArc": "Egghead"
+  },
+  {
+    "name": "Prince Grus",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/2/24/Prince_Grus_Anime_Infobox.png/revision/latest/scale-to-width-down/337?cb=20240804021734",
+    "gender": "Male",
+    "species": "Human",
+    "calling": "Rear Admiral",
+    "affiliation": "Marines",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "6'9\"",
+    "heightCm": 205,
+    "bounty": "500,000,000",
+    "seaOfBirth": "West Blue",
+    "firstArc": "Wano Country"
+  },
+  {
+    "name": "Kujaku",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/8/84/Kujaku_Anime_Infobox.png/revision/latest/scale-to-width-down/266?cb=20240811124929",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Rear Admiral",
+    "affiliation": "Marines",
+    "devilFruitType": "Paramecia",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "5'11\"",
+    "heightCm": 180,
+    "bounty": "500,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Wano Country"
+  },
+  {
+    "name": "Hibari",
+    "image": "https://static.wikia.nocookie.net/onepiece/images/6/6b/Hibari_Anime_Infobox.png/revision/latest/scale-to-width-down/274?cb=20240114021335",
+    "gender": "Female",
+    "species": "Human",
+    "calling": "Sniper",
+    "affiliation": "Marines; SWORD",
+    "devilFruitType": "None",
+    "haki": [
+      "Armament",
+      "Observation"
+    ],
+    "heightFt": "5'5\"",
+    "heightCm": 165,
+    "bounty": "200,000,000",
+    "seaOfBirth": "North Blue",
+    "firstArc": "Egghead"
+  }
+]
